@@ -1,0 +1,14 @@
+C:\Users\oliwi\Desktop\Podstawy programowania\LiczbaPi\obj\Debug\net6.0\LiczbaPi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oliwi\Desktop\Podstawy programowania\LiczbaPi\obj\Debug\net6.0\LiczbaPi.AssemblyInfoInputs.cache
+C:\Users\oliwi\Desktop\Podstawy programowania\LiczbaPi\obj\Debug\net6.0\LiczbaPi.AssemblyInfo.cs
+C:\Users\oliwi\Desktop\Podstawy programowania\LiczbaPi\obj\Debug\net6.0\LiczbaPi.csproj.CoreCompileInputs.cache
+C:\Users\oliwi\Desktop\Podstawy programowania\LiczbaPi\bin\Debug\net6.0\LiczbaPi.exe
+C:\Users\oliwi\Desktop\Podstawy programowania\LiczbaPi\bin\Debug\net6.0\LiczbaPi.deps.json
+C:\Users\oliwi\Desktop\Podstawy programowania\LiczbaPi\bin\Debug\net6.0\LiczbaPi.runtimeconfig.json
+C:\Users\oliwi\Desktop\Podstawy programowania\LiczbaPi\bin\Debug\net6.0\LiczbaPi.dll
+C:\Users\oliwi\Desktop\Podstawy programowania\LiczbaPi\bin\Debug\net6.0\LiczbaPi.pdb
+C:\Users\oliwi\Desktop\Podstawy programowania\LiczbaPi\obj\Debug\net6.0\LiczbaPi.dll
+C:\Users\oliwi\Desktop\Podstawy programowania\LiczbaPi\obj\Debug\net6.0\refint\LiczbaPi.dll
+C:\Users\oliwi\Desktop\Podstawy programowania\LiczbaPi\obj\Debug\net6.0\LiczbaPi.pdb
+C:\Users\oliwi\Desktop\Podstawy programowania\LiczbaPi\obj\Debug\net6.0\LiczbaPi.genruntimeconfig.cache
+C:\Users\oliwi\Desktop\Podstawy programowania\LiczbaPi\obj\Debug\net6.0\ref\LiczbaPi.dll
